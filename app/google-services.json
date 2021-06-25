@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119673063529",
+    "project_id": "whatsupapp-c3057",
+    "storage_bucket": "whatsupapp-c3057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119673063529:android:6eb1b5d6219ec793c2baf8",
+        "android_client_info": {
+          "package_name": "com.dreamonce.whatsupapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119673063529-cp395o9lo3fk4s7jn2nalp4msabas1dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2HJV_ZGJ5vwWqNYYrFOIGBW8mFXYLrBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119673063529-cp395o9lo3fk4s7jn2nalp4msabas1dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
